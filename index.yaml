@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  kanboard:
+  - apiVersion: v2
+    created: "2025-09-07T23:42:15.179361257Z"
+    description: A Helm chart to deploy Kanboard to Kubernetes
+    digest: 8b340ef0163201b04d15fcf159a52fe9b67c18ceee9843ad5b0071ef1d71957c
+    name: kanboard
+    type: application
+    urls:
+    - https://github.com/chjtxwd/kanboard-helm/releases/download/kanboard-1.0.0/kanboard-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-09-07T23:42:15.179366778Z"

@@ -41,7 +41,7 @@ spec:
           value: "stdout"
         {{- if .Values.env }}
         {{- toYaml .Values.env | nindent 8 }}
-        {{- end }}ßßß
+        {{- end }}
         ports:
           - containerPort: {{ .Values.application.port }}
         volumeMounts:

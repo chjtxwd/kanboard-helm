@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/chjtxwd/kanboard-helm/compare/1.0.0...1.1.0) (2025-09-09)
+
+
+### Bug Fixes
+
+* remove extraneous characters in deployment.yaml ([612d021](https://github.com/chjtxwd/kanboard-helm/commit/612d021320f0033614fee8dc301de6e1f5304955))
+
+
+### Features
+
+* add environment variable support and create deployment test files ([bf06616](https://github.com/chjtxwd/kanboard-helm/commit/bf06616b91508d8aa48e48484c2a6f13f612a495))
+
 # 1.0.0 (2025-09-07)
 
 

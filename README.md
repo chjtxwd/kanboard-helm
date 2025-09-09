@@ -6,7 +6,7 @@ Helm Chart to simplify the deployment of [Kanboard](https://github.com/kanboard/
 ## Installation
 
 ```sh
-helm repo add kanboard https://kube-the-home.github.io/kanboard-helm/
+helm repo add kanboard https://blog.haijin666.top/kanboard-helm/
 helm install kanboard/kanboard
 ```
 
